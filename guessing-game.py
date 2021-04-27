@@ -1,4 +1,11 @@
-
+#
+#Author:        Emem-Akeabasi Andy
+#
+#Created:       05/02/2021
+#Purpose:       Guessing game
+#Copyright:     (c)Emem Andy 2021
+#
+#-------------------------------------------------------------------------------------------------------------------------------
 
 import random 
 
